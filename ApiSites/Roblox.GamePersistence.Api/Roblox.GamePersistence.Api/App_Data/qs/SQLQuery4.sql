@@ -1,0 +1,1 @@
+﻿update Universes set Updated = '2020-10-1' where Id = 1

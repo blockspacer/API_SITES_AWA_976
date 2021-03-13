@@ -5,8 +5,8 @@ using System.Text.Json;
 
 namespace Roblox.GamePersistence.Api.Controllers
 {
-    [RoutePrefix("v2/persistence")]
-    public class PersistenceV2Controller : Controller
+    [RoutePrefix("v1/persistence")]
+    public class PersistenceV1Controller : Controller
     {
     }
 }

@@ -5,6 +5,9 @@ using System.Web;
 
 namespace Roblox.GamePersistence.Api.Models.V1
 {
+    /// <summary>
+    /// <c>{Roblox.GamePersistence.Api.Models.V1.QualifiedEntry}</c>
+    /// </summary>
     public class QualifiedEntry
     {
         public string scope { get; set; }
